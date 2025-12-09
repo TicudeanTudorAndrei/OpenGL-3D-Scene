@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gps::Window">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAgAAAAAAAAEAAEAIAAAAEAAAAQA=</HashCode>
+      <FileName>Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gps::SkyBox">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgCAAAACAAgAQAIAAAAAAAFAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>SkyBox.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gps::Shader">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAIAAAACAAAAAAAEAAAAAAAAQA=</HashCode>
+      <FileName>Shader.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gps::Model3D">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAAIAIAAgAAAAAACEAAAEAAAAAA=</HashCode>
+      <FileName>Model3D.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gps::Mesh">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgQAAAAEAAAgAAAAAAACAAAAAQAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Mesh.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gps::Camera">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAACAAABRAAAAIBQABAAiAAAAABAAAAA=</HashCode>
+      <FileName>Camera.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyobj::MaterialReader">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tiny_obj_loader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyobj::MaterialFileReader">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAEAAAAAAAAAIAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>tiny_obj_loader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyobj::MaterialStreamReader">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>tiny_obj_loader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="WindowDimensions">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Window.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gps::Vertex">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAIAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mesh.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gps::Texture">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Mesh.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gps::Material">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Mesh.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gps::Buffers">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACA=</HashCode>
+      <FileName>Mesh.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyobj::vertex_index">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAACAAAgIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tiny_obj_loader.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyobj::tag_sizes">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAABAgAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>tiny_obj_loader.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyobj::obj_shape">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAA=</HashCode>
+      <FileName>tiny_obj_loader.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="gps::MOVE_DIRECTION">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEgAAUAAAAAAA=</HashCode>
+      <FileName>Camera.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

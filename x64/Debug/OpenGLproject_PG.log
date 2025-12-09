@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\PG\OpenGLproject_PG\OpenGLproject_PG\main.cpp(108,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PG\OpenGLproject_PG\OpenGLproject_PG\main.cpp(109,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PG\OpenGLproject_PG\OpenGLproject_PG\main.cpp(113,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PG\OpenGLproject_PG\OpenGLproject_PG\main.cpp(114,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PG\OpenGLproject_PG\OpenGLproject_PG\main.cpp(116,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\PG\OpenGLproject_PG\OpenGLproject_PG\main.cpp(117,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGLproject_PG.vcxproj -> E:\PG\OpenGLproject_PG\x64\Debug\OpenGLproject_PG.exe
