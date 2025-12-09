@@ -13,6 +13,8 @@ The project showcases the full graphics pipeline: model loading, transformations
 
 ![Models_Folder](images/models_folder.jpg)
 
+- Once this is done, the project can be run via "OpenGLproject_PG.exe"
+
 ## Scene Overview
 The scene represents a small stylized environment containing:
 - Buildings, houses, a bridge, trees, and a surrounding skybox  
